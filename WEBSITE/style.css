@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  main {
+    margin-bottom: 20px;
+  }

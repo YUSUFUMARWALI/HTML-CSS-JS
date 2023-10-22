@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .products {
