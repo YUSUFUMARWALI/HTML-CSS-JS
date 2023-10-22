@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zamfara State Oversea Scholarship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>ZAMSOS</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About Us</a>
+      <a href="/scholarships">Scholarships</a>
+      <a href="/apply">Apply</a>
+      <a href="/contact">Contact Us</a>
+    </nav>
+    <main>
+      <section>
+        <h2>ZAMSOS Official Website!</h2>
+        <p>We are a non-profit organization dedicated to helping students achieve their educational goals. We offer a variety of scholarships to students of all ages and backgrounds, in different Desciplines for both UGs and PGs</p>
+        <p>To learn more about our organization and our scholarships, please explore our website. You can also contact us via:(ZAMSOS.gov.org/08000001122) with any questions you have.</p>
+      </section>
+      <section>
+        <h2>Our Mission</h2>
+        <p>Our mission is to provide financial assistance to students who are pursuing a higher education. We believe that all students should have the opportunity to achieve their educational goals, regardless of their financial circumstances.</p>
+      </section>
+      <section>
+        <h2>Our Vision</h2>
+        <p>We envision a world where all students have access to the resources they need to succeed in school. We believe that education is the key to a better future for all.</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright 2023 ZAMSOS</p>
+    </footer>
+  </div>
+</body>
+</html>
+
+Css.style;
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  main {
+    margin-bottom: 20px;
+  }
