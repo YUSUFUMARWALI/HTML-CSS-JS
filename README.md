@@ -2,6 +2,8 @@ I am YUSUF UMAR WALI, a Nigerian by country of birth and 23years old Engineering
 I am Muslim.
 I like learning new ideas.
 I like creeativity.
-I like meeting hard woeking and unselfish people.
-I like to play video games, mobile pc (onine & offline).
+I like meeting hard working and optimistic people.
+I like to play video games, mobile pc (online & offline).
 A football athlete.
+A BSc IT Graduate.
+An AI & ML Graduate in (B.Tech) Bachelor of Technology.
